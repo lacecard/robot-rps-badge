@@ -1,0 +1,17 @@
+### Missing 3D models - created on 2023-09-19 21:08
+### Printed by checking_3D_models plugin
+Board file: C:\Users\Lacecard\OneDrive\kawaii-hackers\rrps-badge\rrps-badge.kicad_pcb
+3D missing models written to:
+C:\Users\Lacecard\OneDrive\kawaii-hackers\rrps-badge\rrps-badge_missing3Dmodels.txt
+-------
+('PWR', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_SPDT_CK-JS102011SAQN.wrl')
+('J1', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl')
+('U1', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Package_SO.3dshapes\\SOIC-8_5.23x5.23mm_P1.27mm.wrl')
+('MODE', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_SPDT_CK-JS102011SAQN.wrl')
+('J6', 'C:/Users/flence242/Downloads/1971567-2/1971567-2.step')
+('BOOTSEL', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_Push_1P1T_NO_Vertical_Wuerth_434133025816.wrl')
+('J7', 'C:/Users/flence242/Downloads/1971567-2/1971567-2.step')
+('Y1', 'C:\\Program Files\\KiCad\\6.0\\share\\kicad\\3dmodels\\Crystal.3dshapes\\Crystal_SMD_TXC_7A-2Pin_5x3.2mm.wrl')
+-------
+NUM of 3D missing models:8
+checked extensions ['.stp', '.step', '.stpZ']
